@@ -1,12 +1,12 @@
 .circle {
-    height: 50px;
-    width: 50px;
-    border-radius: 25px;
-    background-color: greenyellow;
-    box-shadow: green 0 0 10px 5px;
-    position: absolute;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: black;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  background-color: greenyellow;
+  box-shadow: green 0 0 10px 5px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
 }

@@ -1,19 +1,18 @@
 .space {
-    width: 80%;
-    height: 100%;
-
+  width: 80%;
+  height: 100%;
 }
 
 .main {
-    width: 100vw;
-    height: 100vh;
-    background-color: black;
-    display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  display: flex;
 }
 
-.score{display: flex;
-    flex-direction: column-reverse;
-    border-left: solid 3px #111112 ;
-    width: 20%;
-
+.score {
+  display: flex;
+  flex-direction: column-reverse;
+  border-left: solid 3px #111112;
+  width: 20%;
 }
